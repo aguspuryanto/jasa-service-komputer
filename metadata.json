@@ -1,0 +1,7 @@
+{
+  "name": "ServiceComp - Panggil Teknisi Ke Rumah",
+  "description": "Aplikasi layanan panggil teknisi profesional untuk perbaikan Laptop, Printer, dan Komputer secara langsung ke rumah Anda dengan sistem tracking real-time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
